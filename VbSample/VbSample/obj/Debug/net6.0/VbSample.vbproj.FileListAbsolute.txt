@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\VbSample\VbSample\bin\Debug\net6.0\VbSample.exe
+C:\Users\Administrator\source\repos\VbSample\VbSample\bin\Debug\net6.0\VbSample.deps.json
+C:\Users\Administrator\source\repos\VbSample\VbSample\bin\Debug\net6.0\VbSample.runtimeconfig.json
+C:\Users\Administrator\source\repos\VbSample\VbSample\bin\Debug\net6.0\VbSample.dll
+C:\Users\Administrator\source\repos\VbSample\VbSample\bin\Debug\net6.0\VbSample.pdb
+C:\Users\Administrator\source\repos\VbSample\VbSample\obj\Debug\net6.0\VbSample.vbproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\VbSample\VbSample\obj\Debug\net6.0\VbSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\VbSample\VbSample\obj\Debug\net6.0\VbSample.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\VbSample\VbSample\obj\Debug\net6.0\VbSample.AssemblyInfo.vb
+C:\Users\Administrator\source\repos\VbSample\VbSample\obj\Debug\net6.0\VbSample.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\VbSample\VbSample\obj\Debug\net6.0\VbSample.dll
+C:\Users\Administrator\source\repos\VbSample\VbSample\obj\Debug\net6.0\refint\VbSample.dll
+C:\Users\Administrator\source\repos\VbSample\VbSample\obj\Debug\net6.0\VbSample.pdb
+C:\Users\Administrator\source\repos\VbSample\VbSample\obj\Debug\net6.0\VbSample.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\VbSample\VbSample\obj\Debug\net6.0\ref\VbSample.dll
